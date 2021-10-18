@@ -2,7 +2,7 @@
 Rest API for Car Service Center Appointment Management 
 
 
-# To build the project select maven tab then run then command
+# To build the project select maven tab then run the command
 mvn clean install
 
 # To run the project select play tab in the top right of IntelliJ IDEA and while selecting
